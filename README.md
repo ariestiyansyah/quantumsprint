@@ -1,7 +1,9 @@
 # Indonesia Sprint list
 
-- 🙃 [Report Link](https://firefoxsprint.mozilla.community/reporting/)
-- 🤗 [Webcompat](https://webcompat.com/)
+- 🙃 [Sprint Report](https://firefoxsprint.mozilla.community/reporting/)
+- 🤗 [Webcompat Issue Report](https://webcompat.com/)
+- 🎓 [A Web Compatibility Issue? Maybe Not.](http://www.otsukare.info/2017/10/05/what-is-a-webcompat-issue)
+
 
 ## 200 top website from alexa
 - [4shared.com](http://4shared.com)
