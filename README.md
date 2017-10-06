@@ -205,3 +205,15 @@
 - [Youtube.com](http://Youtube.com)
 - [Yukepo.com](http://Yukepo.com)
 - [Zippyshare.com](http://Zippyshare.com)
+
+## Websites from Indonesia
+- [Korindo.co.id](https://www.korindo.co.id/)
+- [GO-JEK.com](https://www.go-jek.com/)
+- [1000startupdigital.id](https://1000startupdigital.id/i/)
+- [Detik.com](http://www.detik.com/)
+- [Kompas.com](http://www.kompas.com/)
+- [Printgila.com](https://printgila.com/)
+- [Brosurkilat.com](http://brosurkilat.com/)
+- [Idn.id](http://idn.id/)
+- [Gandengtangan.org](https://gandengtangan.org/)
+- [Bareksa.com](http://www.bareksa.com/)
