@@ -211,6 +211,7 @@
 ## Websites from Indonesia
 - [Bukalapak.com](http://bukalapak.com/)
 - [MailTarget.co](https://mailtarget.co/)
+- [IndonesiaX](https://www.indonesiax.co.id/)
 - [JagatReview](http://www.jagatreview.com/)
 - [Kudo.co.id](https://kudo.co.id/)
 - [Seekmi.com](https://www.seekmi.com/)
