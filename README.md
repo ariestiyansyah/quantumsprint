@@ -209,6 +209,13 @@
 
 
 ## Websites from Indonesia
+- [Bukalapak.com](http://bukalapak.com/)
+- [MailTarget.co](https://mailtarget.co/)
+- [IndonesiaX](https://www.indonesiax.co.id/)
+- [JagatReview](http://www.jagatreview.com/)
+- [Kudo.co.id](https://kudo.co.id/)
+- [Seekmi.com](https://www.seekmi.com/)
+- [EneterKomputer.com](http://www.enterkomputer.com/)
 - [Korindo.co.id](https://www.korindo.co.id/)
 - [GO-JEK.com](https://www.go-jek.com/)
 - [1000startupdigital.id](https://1000startupdigital.id/i/)
@@ -230,4 +237,3 @@
 - [Rumah](http://rumah.com)
 - [Rumah123](http://rumah123.com)
 - [Zalora Indonesia](http://zalora.co.id)
-
